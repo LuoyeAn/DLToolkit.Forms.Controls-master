@@ -62,3 +62,5 @@ project.lock.json
 FlowListView/DLToolkit.Forms.Controls.FlowListView/AssemblyTFMAttribute.cs
 *.props
 TagEntryView/DLToolkit.Forms.Controls.TagEntryView/DLToolkit.Forms.Controls.TagEntryView.nuget.props
+/.vs/DLToolkit.Forms.Controls/v15/Server/sqlite3
+/FlowListView/DLToolkit.Forms.Controls.FlowListView.nuspec
